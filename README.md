@@ -10,18 +10,6 @@
   <h3 align="center">Official Website InfinixSoft</h3>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
-
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
-
-
-
 ## <a name="introduction">🤖 Introduction</a>
 
 At **InfinixSoft**, we are dedicated to delivering fast and high-quality web development services. Our goal is to create visually captivating websites with seamless UI/UX, engaging animations, and smooth responsiveness. Inspired by modern design principles, we craft digital experiences that leave a lasting impact. Stay tuned—there’s much more to come!
